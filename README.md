@@ -1,1 +1,1 @@
-# JewelSamples
+# Jewel Programming Language

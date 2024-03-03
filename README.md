@@ -6,18 +6,18 @@ Jewel is a systems programming langauge with a focus on speed, memory safety and
 Jewel's key feature is consequent free abstraction. This will be covered in the abstraction mechanisms section of this doc.
 
 The following are the language features in development and are designed to make the language powerful and easy to use.
-- [ ] Haskell-like functional type signatures for type checking
-- [ ] Frames: an entity used to wrap 
-    - [ ] Closures
-    - [ ] Functions
-    - [ ] Scope
-- [ ] Custom Error Messaging/ Errors as values
-- [ ] Explicit move and copy semantics
-    - [ ] Referential operators
-- [ ] Pattern Matching
-- [ ] Guarded Heap Allocation
-- [ ] Dynamic Structs/Objects
-- [ ] Inter operation with python and c 
+- Haskell-like functional type signatures for type checking
+-  Frames: an entity used to wrap 
+    -  Closures
+    -  Functions
+    -  Scope/Lifetimes
+- Custom Error Messaging/ Errors as values
+- Explicit move and copy semantics
+    - Referential operators
+- Pattern Matching
+- Guarded Heap Allocation
+- Dynamic Structs/Objects
+- Inter operation with python and c 
 
 ```
 // Hello world example:

@@ -1,6 +1,3 @@
-Jewel Programming Language
-=
-
 Jewel is a systems programming langauge with a focus on speed, memory safety and consequent free abstraction.
 
 Jewel's key feature is consequent free abstraction. This will be covered in the abstraction mechanisms section of this doc.

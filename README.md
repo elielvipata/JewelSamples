@@ -86,11 +86,13 @@ Jewel's type system operates on two levels, high and low each with their own val
 Values in Jewels can be used explicitly or placed in a variable.
 If used explicitly, they are placed in the program stack. Otherwise if placed in a variable, will go on the stack if static and on the heap if mutable. 
 
+#### Sample Programs
+[Functions](functions.md)
+
 
 ### Applications
 
 Web servers
 Command line interfaces
 Low level/memory intensive applications
-Memory safe, robust and fast graphical user interfaces
 

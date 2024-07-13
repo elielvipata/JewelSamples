@@ -4,8 +4,8 @@ Say hello to my favorite personal project, Jewel. [Checkout my other projects](#
 
 Jewel is a systems programming langauge with a focus on speed, memory safety and consequent free abstraction.
 
-Consequent free abstraction is the key feature of this language and will be covered in the Abstraction Mechanisms section of this doc. That I'll be adding soon.
-Until then please bear with me by reading through the basic features of the language cause I find just as interesting:
+Consequent free abstraction is the key feature of this language and will be covered in the Abstraction Mechanisms section of this doc. Coming soon.
+Until then please bear with me by reading through the basic features of the language that I find just as interesting:
 
 ### Basic Features
 
@@ -111,7 +111,7 @@ Low level/memory intensive applications
 ## Other Projects
 [Book Rental App](https://github.com/elielvipata/BookRentalApp)
 - Book search engine built on top of google books for iOS
-- Used a parse server as a backend
+- Used a selfhosted NoSQL parse server as a backend
 
 [xG Analyzer](https://github.com/CS407Team/xGAnalyzer)
 - Selfhosted Server App that uses logisitcal regression and multi-linear regression and a decision tree to simulate and predict the results of English Premier league 
@@ -124,12 +124,12 @@ Low level/memory intensive applications
 - Will eventually support an interpreted version of Jewel built on top of YACC as a scripting language
 
 [Chromium Contribution](https://www.chromium.org/Home/)
-- Triaged and fixed a duplicate tab bug in Developer tools
-- Starting a design to strip chromium down to a single tab browser with a simpler caching system to enable it to run on simple machines like the raspberry pi
+- Triaged and fixed a duplicate tab bug in Developer tools.
+- Starting a design to strip chromium down to a single tab browser with a simpler caching system to enable it to run on simple machines like the raspberry pi.
 
 ### Currently working on
 [XINU OS](https://xinu.cs.purdue.edu)
-- Rewriting the FIFO process scheduler to a [completely fair scheduler](https://developer.ibm.com/tutorials/l-completely-fair-scheduler/)
+- Rewriting the FIFO process scheduler to a [completely fair scheduler](https://developer.ibm.com/tutorials/l-completely-fair-scheduler/) to reduce process starvation.
 
 
 

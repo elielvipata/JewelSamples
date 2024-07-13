@@ -95,6 +95,9 @@ Jewel's type system operates on two levels, high and low each with their own val
 Values in Jewel can be used explicitly or placed in a variable.
 If used explicitly, they are placed in the program stack. Otherwise if placed in a variable, will go on the stack if static and on the heap if mutable. 
 
+#### Consequent Free Abstraction
+...loading...
+
 #### Compiler Stack
 
 As mentioned above, Jewel is meant to be a systems programming language so its not interpreted. I originally had this be an interpreted language but consequent free abstraction makes more sense as a compiler optimization technique so it makes more sense to have it be compiled.
@@ -105,10 +108,11 @@ This is the current stack:
 - [Glibc](https://www.gnu.org/software/libc/) for its standard library
 
 C++ is the main development language with some bash scripts to automate certain processes.
-The parser will remain in Yacc while the language undergoes severe refactoring/design but will eventually be a simple recursive parser when the language hits 1.0
+The parser will remain in Yacc while the language undergoes severe refactoring/design but will eventually be a simple recursive parser when the language hits 1.0 and goes public (January 2025).
 
-#### Consequent Free Abstraction
-...loading...
+Note: A development roadmap will also release with 1.0.
+
+
 
 #### Sample Programs
 [Functions](functions.md)

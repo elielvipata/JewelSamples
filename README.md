@@ -97,7 +97,7 @@ If used explicitly, they are placed in the program stack. Otherwise if placed in
 
 #### Compiler Stack
 
-As mentioned above, Jewel is meant to be a system programming language so its not interpreted. I originally had this be an interpreted language but consequent free abstraction makes more sense as a compilation optimization technique so it makes more sense to have it be compiled.
+As mentioned above, Jewel is meant to be a systems programming language so its not interpreted. I originally had this be an interpreted language but consequent free abstraction makes more sense as a compiler optimization technique so it makes more sense to have it be compiled.
 This is the current stack:
 - [YACC](https://pubs.opengroup.org/onlinepubs/7908799/xcu/yacc.html) for an experimental parser
 - [LLVM](https://llvm.org/docs/index.html) for code generation

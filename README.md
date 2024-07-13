@@ -114,14 +114,14 @@ Low level/memory intensive applications
 - Used a parse server as a backend
 
 [xG Analyzer](https://github.com/CS407Team/xGAnalyzer)
-- Server App that uses logisitcal regression and multi-linear regression and a decision tree to simulate and predict the results of English Premier league 
-- Trained on soccer data from 2012 - 2022
-- Predicted the outcome of Premier league matches from January to May with > 90% accuracy for scores and match points
+- Selfhosted Server App that uses logisitcal regression and multi-linear regression and a decision tree to simulate and predict the results of English Premier league 
+- Trained on match data from 2012 - 2022
+- Predicted the outcome of Premier league matches from January to May 2022 with > 90% accuracy for scores and match points
 
 [Kash](https://github.com/elielvipata/kash_public.git)
 - A Unix Shell based on Bourne and csh
-- Supports all basic commands and functionality with the goal of become [POSIX Compliant](https://posix.opengroup.org)
-- Will eventually support an interpreted version of Jewel built on top of YACC
+- Supports all basic commands and functionality with the goal of becoming [POSIX Compliant](https://posix.opengroup.org)
+- Will eventually support an interpreted version of Jewel built on top of YACC as a scripting language
 
 [Chromium Contribution](https://www.chromium.org/Home/)
 - Triaged and fixed a duplicate tab bug in Developer tools

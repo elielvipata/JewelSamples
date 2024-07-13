@@ -1,6 +1,6 @@
 Hi I'm Vipata
 
-Say hello to my favorite personal project, Jewel. [Checkout my other projects](#other-projects)
+Say hello to my favorite personal project, Jewel. [Checkout my other projects](#other-projects) if this sounds boring.
 
 Jewel is a systems programming langauge with a focus on speed, memory safety and consequent free abstraction.
 

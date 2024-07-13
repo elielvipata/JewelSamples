@@ -1,4 +1,6 @@
-Say hello to my favorite personal project, Jewel.
+Hi I'm Vipata
+
+Say hello to my favorite personal project, Jewel. [Checkout my other projects](#other-projects)
 
 Jewel is a systems programming langauge with a focus on speed, memory safety and consequent free abstraction.
 
@@ -95,10 +97,43 @@ If used explicitly, they are placed in the program stack. Otherwise if placed in
 #### Sample Programs
 [Functions](functions.md)
 
+Sample Programs will be used for more in-depth documentation and explanations of how the lanugage works.
+
 
 ### Applications
 
 Web servers
 Command line interfaces
 Low level/memory intensive applications
+
+
+
+## Other Projects
+[Book Rental App](https://github.com/elielvipata/BookRentalApp)
+- Book search engine built on top of google books for iOS
+- Used a parse server as a backend
+
+[xG Analyzer](https://github.com/CS407Team/xGAnalyzer)
+- Server App that uses logisitcal regression and multi-linear regression and a decision tree to simulate and predict the results of English Premier league 
+- Trained on soccer data from 2012 - 2022
+- Predicted the outcome of Premier league matches from January to May with > 90% accuracy for scores and match points
+
+[Kash](https://github.com/elielvipata/kash_public.git)
+- A Unix Shell based on Bourne and csh
+- Supports all basic commands and functionality with the goal of become [POSIX Compliant](https://posix.opengroup.org)
+- Will eventually support an interpreted version of Jewel built on top of YACC
+
+[Chromium Contribution](https://www.chromium.org/Home/)
+- Triaged and fixed a duplicate tab bug in Developer tools
+- Starting a design to strip chromium down to a single tab browser with a simpler caching system to enable it to run on simple machines like the raspberry pi
+
+### Currently working on
+[XINU OS](https://xinu.cs.purdue.edu)
+- Rewriting the FIFO process scheduler to a [completely fair scheduler](https://developer.ibm.com/tutorials/l-completely-fair-scheduler/)
+
+
+
+
+
+
 

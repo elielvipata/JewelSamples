@@ -2,7 +2,7 @@ Hi I'm Vipata, I love programming languages and compilers.
 
 Say hello to my favorite personal project, Jewel. [Checkout my other projects](#other-projects) if this sounds boring.
 
-### What exactly is Jewwl?
+### What exactly is Jewel?
 Jewel is a systems programming langauge with a focus on speed, memory safety and consequent free abstraction.
 
 Consequent free abstraction is the key feature of this language and will be covered in the Abstraction Mechanisms section of this doc. Coming soon.

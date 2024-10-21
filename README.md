@@ -5,7 +5,7 @@ Jewel's key feature is consequent free abstraction. This will be covered in the 
 ## Update!
 Jewel is getting rewritten to rust. All it took was one major bug caused by the lack of assertions and random memory issues(which I admit are my fault).
 After fixing the bug, I realized just how many parts of the code seemed "fragile". I got frustrated, contemplated a full refactor and then thought of migrating to a new stack that would make things simpler. 
-Correctness is the base goal of a compiler in my opinion. Stability and robustness are right above that base and using c++ has increasingly raised concern in the other latter two. So I'm experimenting with rust for the next month and fully migrating and completing base language features in 2025 with the goal of an alpha version coming out early May. 
+Correctness is the base goal of a compiler in my opinion. Stability and robustness are right below that and using c++ has increasingly raised concern in the other latter two. So I'm experimenting with rust for the next month and fully migrating and completing base language features in 2025 with the goal of an alpha version coming out early May. 
 
 I'll document more of this in a langauge blog that I'll work on next year.
 

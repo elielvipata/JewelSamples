@@ -8,6 +8,15 @@ Jewel is a systems programming langauge with a focus on speed, memory safety and
 Consequent free abstraction is the key feature of this language and will be covered in the Abstraction Mechanisms section of this doc. Coming soon.
 Until then please bear with me by reading through the basic features of the language that I find just as interesting:
 
+## Update!
+Jewel is getting rewritten to rust. All it took was one major bug caused by the lack of assertions and random memory issues(which I admit are my fault).
+After fixing the bug, I realized just how many parts of the code seemed "fragile". I got frustrated, contemplated a full refactor and then thought of migrating to a new stack that would make things simpler. 
+Correctness is the base goal of a compiler in my opinion. Stability and robustness are right below that and using c++ has increasingly raised concern in the other latter two,so I'll be experimenting with rust for the next month and fully migrating and completing base language features in 2025 with the goal of an alpha version coming out early May. 
+
+I'll document more of this in a langauge blog that I'll work on next year.
+
+Back to the feature set! (These are subject to change due to certain design choices that will be discussed in the near future)
+
 ### Basic Features
 
 The following are the language features in development and are designed to make the language powerful and easy to use.

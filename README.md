@@ -1,6 +1,6 @@
 Hi I'm Eliel, I love programming languages and compilers.
 
-Say hello to my favorite personal project, Jewel. [Checkout my other projects] [other-projects](projects.md) if this sounds boring.
+Say hello to my favorite personal project, Jewel. [Checkout my other projects](projects.md) if this sounds boring.
 
 ### What exactly is Jewel?
 Jewel is a systems programming langauge with a focus on speed, memory safety and consequent free abstraction.

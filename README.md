@@ -9,7 +9,7 @@ Correctness is the base goal of a compiler in my opinion. Stability and robustne
 
 I'll document more of this in a langauge blog that I'll work on next year.
 
-Back to the feature set! (This very subject to change)
+Back to the feature set! (This is subject to change due to certain design choices that will be discussed in the near future)
 
 The following are the language features in development and are designed to make the language powerful and easy to use.
 - Haskell-like functional type signatures for type checking
